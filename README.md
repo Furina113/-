@@ -5,4 +5,4 @@ https://github.com/myHuTao-qwq/HutaoFisher
 https://github.com/moesnow/March7thAssistant
 # moesnow    March7thAssistant
 https://github.com/NoroHime/AHK-genshin-scripts
-#NoroHime   AHK-genshin-scripts
+# NoroHime   AHK-genshin-scripts
