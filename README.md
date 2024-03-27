@@ -10,7 +10,9 @@ https://github.com/myHuTao-qwq/HutaoFisher
 崩坏：星穹铁道全自动 三月七小助手
 https://github.com/moesnow/March7thAssistant
 
-
 # NoroHime   AHK-genshin-scripts
 通过AutoHotKey(AHK)实现原神快速拾取、持续跳跃、快速瞄准，半自动传送
 https://github.com/NoroHime/AHK-genshin-scripts
+
+# NoroHime   流萤工具箱
+https://github.com/Natrium0521/Firefly
