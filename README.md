@@ -16,3 +16,6 @@ https://github.com/NoroHime/AHK-genshin-scripts
 
 # NoroHime   流萤工具箱
 https://github.com/Natrium0521/Firefly
+
+# FungusOVO/artifact
+https://github.com/FungusOVO/artifact
